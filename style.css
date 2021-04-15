@@ -4,3 +4,12 @@ body {
     color: rgb(51, 50, 50);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.profile_photo {
+    border-radius: 50%;
+    border: 3px groove rgb(51, 50, 50)
+}
+
+.hr {
+    border-top: 3px solid rgb(51, 50, 50);
+}
