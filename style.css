@@ -1,0 +1,41 @@
+body {
+    background-color:rgb(245, 199, 206);
+    text-align: center;
+    color: rgb(51, 50, 50);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.profile_photo {
+    border-radius: 50%;
+    border: 5px inset rgb(255, 255, 255)
+}
+
+.hr {
+    border-top: 3px solid rgb(255, 255, 255);
+}
+
+.name {
+    text-shadow: 
+            -2px 2px rgb(255, 255, 255), 
+            0px 3px rgb(255, 255, 255), 
+            0px 0px rgb(255, 255, 255), 
+            0px 2px rgb(255, 255, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+.index { 
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    text-decoration: none;;
+}
+
+.skills {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    list-style-type: none;
+    width: 150px;
+
+}
