@@ -35,8 +35,7 @@ body {
 .skills {
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
-    text-decoration: none;
     list-style-type: none;
-    text-align: center;
     width: 150px;
+
 }
