@@ -7,9 +7,19 @@ body {
 
 .profile_photo {
     border-radius: 50%;
-    border: 3px groove rgb(51, 50, 50)
+    border: 5px inset rgb(255, 255, 255)
 }
 
 .hr {
-    border-top: 3px solid rgb(51, 50, 50);
+    border-top: 3px solid rgb(255, 255, 255);
+}
+
+.name {
+    text-shadow: 
+            -2px 2px rgb(255, 255, 255), 
+            0px 3px rgb(255, 255, 255), 
+            0px 0px rgb(255, 255, 255), 
+            0px 2px rgb(255, 255, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
 }
