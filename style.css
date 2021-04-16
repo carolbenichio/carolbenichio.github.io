@@ -23,3 +23,18 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(0, 0, 0);
 }
+
+.index { 
+    display: inline-block;
+    background-color: rgb(255, 255, 255);    margin: 10px;
+    text-decoration: none;;
+}
+
+.skills {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    text-align:center;
+    width: 150px;
+}
