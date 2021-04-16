@@ -26,7 +26,9 @@ body {
 
 .index { 
     display: inline-block;
-    background-color: rgb(255, 255, 255);    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin: 10px;
     text-decoration: none;;
 }
 
@@ -35,6 +37,6 @@ body {
     border-radius: 20px;
     text-decoration: none;
     list-style-type: none;
-    text-align:center;
+    text-align: center;
     width: 150px;
 }
